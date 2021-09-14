@@ -1,2 +1,2 @@
-# project-29
-by hiya rawal
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
